@@ -13,8 +13,16 @@ In this tutorial you will:
 - Clean and filter the data.
 - Visualize the data in tables and maps.
 
+## Prerequisites
+
+It is recommended that you follow the [Enso 101](https://github.com/enso_org/tutorial_101) tutorial before attempting this example.
+
 ## Using these project files
 
 - Install Enso and put the binary in your PATH. 
 - Clone this directory to `~/.enso`.
 - Call Enso with `--project tutorial_trams`. 
+
+## Next steps
+
+If you have any questions about the tutorials or using Enso, join us in the [Enso Discord](https://discord.gg/enso).
