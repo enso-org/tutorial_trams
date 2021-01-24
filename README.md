@@ -8,14 +8,14 @@
 
 In this tutorial you will:
 
-- Read a data file containig JSON from your local machine.
+- Read a data file containing JSON from your local machine.
 - Parse the JSON to access and search the objects by property names.
 - Clean and filter the data.
 - Visualize the data in tables and maps.
 
 ## Prerequisites
 
-It is recommended that you follow the [Enso 101](https://github.com/enso_org/tutorial_101) tutorial before attempting this example.
+- It is recommended that you follow the [Enso 101](https://github.com/enso_org/tutorial_101) tutorial before attempting this example.
 
 ## Using these project files
 
