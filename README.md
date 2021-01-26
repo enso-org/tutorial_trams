@@ -15,7 +15,7 @@ In this tutorial you will:
 
 ## Prerequisites
 
-- It is recommended that you follow the [Enso 101](https://github.com/enso_org/tutorial_101) tutorial before attempting this example.
+- It is recommended that you follow the [Enso 101](https://github.com/enso-org/tutorial_101) tutorial before attempting this example.
 
 ## Using these project files
 
