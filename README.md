@@ -20,7 +20,7 @@ In this tutorial you will:
 ## Using these project files
 
 - Install Enso and put the binary in your PATH. 
-- Clone this directory to `~/enso`.
+- Clone this directory to `~/enso/projects/`.
 - Call Enso with `--project Trams_Project`. 
 
 ## Next steps
