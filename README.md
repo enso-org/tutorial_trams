@@ -21,7 +21,7 @@ In this tutorial you will:
 
 - Install Enso and put the binary in your PATH. 
 - Clone this directory to `~/enso`.
-- Call Enso with `--project tutorial_trams`. 
+- Call Enso with `--project Trams_Project`. 
 
 ## Next steps
 
