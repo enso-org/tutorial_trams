@@ -3,7 +3,7 @@
 <a href="https://www.youtube.com/watch?v=XReCQMZUmuE">
 <b>Watch on YouTube</b>
 <br>
-<img src="https://user-images.githubusercontent.com/1790822/105635673-650ca480-5e64-11eb-962e-91c465703f82.png" width=600/>
+<img src="https://user-images.githubusercontent.com/1790822/111483667-4d032400-8735-11eb-95ec-7f791e0568b3.png" width=600/>
 </a>
 
 In this tutorial you will:
